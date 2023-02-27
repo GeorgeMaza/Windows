@@ -1,0 +1,25 @@
+ipconfig: Display network configuration information, including IP address, subnet mask, and default gateway.
+ping: Test network connectivity by sending ICMP echo requests to a host.
+tracert: Trace the route taken by packets from the source to the destination host.
+nslookup: Perform DNS lookups and display information about DNS servers and domains.
+netstat: Display network connections and routing tables.
+route: Configure and display routing tables.
+arp: Display and modify the Address Resolution Protocol (ARP) cache.
+telnet: Connect to a remote host using the Telnet protocol.
+ftp: Transfer files between hosts using the FTP protocol.
+netsh: Configure network settings, including IP address, subnet mask, and default gateway.
+ipconfig /flushdns: Clear the DNS resolver cache.
+ipconfig /release: Release the current IP address lease.
+ipconfig /renew: Renew the current IP address lease.
+ipconfig /all: Display detailed network configuration information.
+route print: Display detailed routing table information.
+net view: Display a list of available network resources.
+net use: Connect to or disconnect from shared network resources.
+nbtstat: Display NetBIOS over TCP/IP (NetBT) information.
+tasklist: Display a list of currently running processes.
+taskkill: Terminate a running process.
+ping -t: Continuously ping a host until stopped.
+nslookup -type=mx: Display mail exchange (MX) records for a domain.
+tracert -d: Trace the route taken by packets without resolving IP addresses to hostnames.
+telnet -f: Record a log of a Telnet session.
+pathping: Sends packets to each router along the path to a destination over a period of time.
