@@ -1,0 +1,8 @@
+Application.log: Contains events logged by applications, including events related to software installation, application crashes, and other errors.
+Security.log: Contains events related to security, including successful and failed logon attempts, changes to user accounts and passwords, and other security-related events.
+System.log: Contains events logged by the operating system and system services, including startup and shutdown events, driver and hardware errors, and other system-related events.
+Setup.log: Contains events related to software installation, including details about which components were installed and any errors or warnings that occurred during installation.
+IIS.log: Contains events logged by Microsoft Internet Information Services (IIS), including details about web server requests and responses, errors, and other web server-related events.
+DNS.log: Contains events related to the Domain Name System (DNS), including details about DNS queries and responses, DNS server errors, and other DNS-related events.
+DHCP.log: Contains events related to Dynamic Host Configuration Protocol (DHCP), including details about IP address leases, DHCP server errors, and other DHCP-related events.
+Event Viewer: Provides a centralized view of all Windows event logs, including Application, Security, and System logs.
